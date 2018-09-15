@@ -1,8 +1,8 @@
 # Node Authentication
-This is a simple Node Express based Authentication System. The project structure is ready to use in any production level node js web application
+This is a simple Node Express based Authentication System. The project structure is ready to use in any production level Node JS Web Application
 
 # Live Demo
-[Demo](https//zonae.com)
+[Demo](https://zonayedpca-node-authentication.herokuapp.com/)
 
 # Clone by Git
 ```
@@ -23,5 +23,5 @@ npm start
 - Node JS
 - Express JS
 - EJS
-- Passport 
+- Passport
 - [Zonayed Ahmed](https://www.zonayed.me)

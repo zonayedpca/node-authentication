@@ -7,7 +7,9 @@ const UserSchema = new Schema({
   password: String
 })
 
-UserSchema.plugin(passportLocalMongoose);
+UserSchema.plugin(passportLocalMongoose, {
+  usernameField: 'username'
+});
 
 const User = mongoose.model('user', UserSchema);
 
